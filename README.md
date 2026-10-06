@@ -82,7 +82,7 @@ docker run -p 3000:3000 portfolio-app
 ## 📬 Connect & Collaborate
 
 * **GitHub:** [@DavidRParra](https://github.com/DavidRParra)
-* **Alias:** Dragetsus
+* **Alias:** David Parra
 
 ---
 Designed and engineered with 💙 and clean code by David Parra.
